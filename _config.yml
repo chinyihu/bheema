@@ -3,7 +3,8 @@
 title: Chin-Yi #Keep it short
 email: chinyihcy@email.com
 
-baseurl: '/chinyihu.github.io'
+url: http://chinyihu.github.io
+baseurl: /chinyihu.github.io
 
 sass:
  style: compressed
